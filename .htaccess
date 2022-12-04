@@ -1,0 +1,7 @@
+
+# HTID:19789269: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:19789269:
+
+# Example 2: redirect errors to PHP file
+ErrorDocument 404 /error.php?q=404

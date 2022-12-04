@@ -1,0 +1,81 @@
+.navbar-collapse > .navbar-nav > a {
+  color:white !important;
+}
+.container-fluid > .navbar-brand > a{
+  color: white !important;
+}
+body{
+  background-color:antiquewhite;
+}
+.container > .box > ul{
+  display: flex;
+  list-style-type: none;
+}
+
+.pagination li a{
+  text-decoration: none !important;
+}
+
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+
+.hov:hover{
+  background-color: grey;
+}
+
+.select-height{
+  min-height: 40px;
+}
+
+.shadow-btn {
+  box-shadow: 0 5px 5px -5px #333;
+}
+
+.pagination > li > a {
+  text-decoration: none;
+  display: block !important;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.cus-modal{
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  display: none;
+}
+.cus-modal-box{
+  background-color: white;
+  width: 30%;
+  position: relative;
+  top: 25%;
+  left: 35%;
+  padding: 15px;
+  border-radius: 3px;
+}
+#modal-span{
+  cursor: pointer;
+  font-size: 22px;
+}
+#modal-span:hover{
+  cursor: pointer;
+  border: solid 2px darkslategrey;
+  background-color: lightslategrey;
+  padding: 3%;
+}
+
+@media screen and (max-width:400px) {
+  .cus-modal-box{
+    left: 22.5%;
+  
+  }
+  
+  .sm{
+      font-size:22px;
+  }
+}
+
+

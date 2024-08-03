@@ -1,9 +1,5 @@
 # project-approval for Colleges
 
-## link :- https://associated-tape.000webhostapp.com/
-
-## See Demo :- https://www.youtube.com/watch?v=LSyQ9LELsq0
-
 ## Screenshots
 <br>
 
